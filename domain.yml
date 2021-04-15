@@ -7,8 +7,13 @@ intents:
   - mood_unhappy
   - bot_challenge
   - hydrojet_guns
+  - hydrojet_machine_pressure
 
 responses:
+
+  utter_hydrojet_machine_pressure:
+  - text: "The maximum pressure of hydrojet is 20 000PSI"
+    image: "https://www.nlbcorp.com/wp-content/uploads/2012/06/225DieselImage_v1.png"
 
   utter_hydrojet_guns:
   - text: "You can use 2 jet guns simultaneously"
