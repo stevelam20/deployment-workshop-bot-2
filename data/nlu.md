@@ -1,3 +1,12 @@
+## intent:hydrojet_guns
+- What is the maximum number of guns that can be used at once?
+- What is the highest number of guns that can operate simultaneously?
+- What is the hydrojetting gun?						
+- What does the hydrojetting gun look like?								
+- What is hydrojet gun?								
+- What does the hydrojetting gun look like?								
+- What is the equipment for hydrojet machine?
+
 ## intent:greet
 - hey
 - hello
