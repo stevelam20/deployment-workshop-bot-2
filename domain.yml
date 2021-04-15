@@ -10,8 +10,9 @@ intents:
 
 responses:
 
-  utter_hydro_jet_gun_hoses:
-  - text: "It is using a National Pipe Taper (NPT) 3/4 inch hose connection"
+  utter_hydrojet_guns:
+  - text: "You can use 2 jet guns simultaneously"
+    image: "https://www.nlbcorp.com/wp-content/uploads/2012/05/NCG24-535_300-x-2251.jpg"
 
   utter_cheer_up:
   - text: "Here is something to cheer you up:"
