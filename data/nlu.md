@@ -7,6 +7,28 @@
 - What does the hydrojetting gun look like?								
 - What is the equipment for hydrojet machine?
 
+## intent:hydrojet_machine_pressure
+- What is the maximum pressure for Hydro Jetting (HJ) Machine
+- What is the pressure limit?								
+- What is the highest pressure allowable?								
+- What is the most pressure it can handle?								
+- What is the safe operating pressure?								
+- What is the operating pressure ?								
+- What's the pressure?								
+- What's the max pressure?								
+- What the pressure is (hydrojet machine/hydrojethydro jet/high pressure jet machine)?
+- Where can I see the pressure? (Show Picture)								
+- Where will the pressure indicate?
+- When do i need to look at the max pressure?								
+- Who is responsible to pressure up the pressure?
+- How much pressure is too much ?								
+- How much pressure can it take?								
+- How does hydrojet machine looks like?								
+- How much pressure it can produce?								
+- The pressure?								
+- Pressure of the hydrojet machine?								
+- Hydrojet machine pressure is?
+
 ## intent:greet
 - hey
 - hello
