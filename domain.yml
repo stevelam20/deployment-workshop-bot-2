@@ -8,6 +8,9 @@ intents:
   - bot_challenge
   - hydrojet_guns
   - hydrojet_machine_pressure
+  - minimal_hydrojet_gun
+  - false_answer_on_hydrojet_gun
+  - Hydro_Jet_Gun_Hoses
 
 responses:
 
