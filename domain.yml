@@ -11,6 +11,16 @@ intents:
 
 responses:
 
+  utter_hydro_jet_gun_hoses:
+  - text: "It is using a National Pipe Taper (NPT) 3/4 inch hose connection"
+  image: ""
+
+  utter_false_answer_hydrojet_gun:
+  - text: "no"
+
+  utter_min_hydrojet_gun:
+  - text: "Yes, you can choose to use only one jet gun"
+  
   utter_hydrojet_machine_pressure:
   - text: "The maximum pressure of hydrojet is 20 000PSI"
     image: "https://www.nlbcorp.com/wp-content/uploads/2012/06/225DieselImage_v1.png"
