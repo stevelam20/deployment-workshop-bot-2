@@ -6,6 +6,18 @@
 * hydrojet_guns
   - utter_hydrojet_guns
 
+## hydrojet minimal hydrojet guns
+* minimal_hydrojet_gun
+  - utter_min_hydrojet_gun
+
+## false answer on hydrojet guns
+* false_answer_on_hydrojet_gun
+  - utter_false_answer_hydrojet_gun
+
+## hydro jet gun hoses
+* Hydro_Jet_Gun_Hoses
+  - utter_hydro_jet_gun_hoses
+
 ## happy path
 * greet
   - action_hi
