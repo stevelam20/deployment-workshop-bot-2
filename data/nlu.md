@@ -29,6 +29,50 @@
 - What does the hydrojetting gun look like?								
 - What is the equipment for hydrojet machine?
 
+## intent:minimal_hydrojet_gun
+-	What if i only want to use one gun?								
+- What is the minimum number of guns that can be used at once
+- What is the min amount of gun can be used?
+- Can 1 gun be used at a time?								
+- Can i choose to use only one (1) gun?								
+- Can i use one (1) gun ?								
+- Can i use one (1) gun at a time?								
+- can i use only one (1) gun ?								
+- can i just use one (1) gun?
+
+## intent:false_answer_on_hydrojet_gun
+- Must multiple guns to be used at once?								
+- Must i use multiple guns at once?								
+- Must i use two (2) guns at the same time?								
+- Must i operate two (2) guns?								
+- Can i increase beyond the maximum pressure? 								
+- can i use more than two (2) guns? 								
+- Can i use other hose connection? 		
+
+## intent:Hydro_Jet_Gun_Hoses
+- What is the fitting and sizes for the hose connection?
+- What is the hose connector size?								
+- What type of connector should i use?								
+- What are the dimensions for the hose connection?
+- What fitting for the hoses connection?								
+- What type of hose connection should be used?								
+- What is the fitting for the hoses?								
+- What type of connector should i use?								
+- What kind of connector?
+- What does the hose connector look like? (SHOW PICTURE)
+- What sort of hose connection to be used? (SHOW PICTURE)
+- What size is the hose connection? (SHOW PICTURE)					
+- What hose connection can i use? (SHOW PICTURE)
+- How does the hose connector look like?								
+- How big is the hose connection?								
+- How small is the hose connection?								
+- How does the hose connector look like? (show picture)
+- How is the hose connection look like? (SHOW PICTURE)
+- Show me the hose connector (Show Picture)								
+- Show me a photo/picture/image of the hose connector
+- Can i see a photo/picture/image of the hose connector
+- Do you have a photo of the hose connector?
+
 ## intent:greet
 - hey
 - hello
