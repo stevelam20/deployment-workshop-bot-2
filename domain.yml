@@ -22,15 +22,15 @@ responses:
 
   utter_hydrojet_earthing:
   - text: "Firstly, to ensure that no static electricity is passing through our body, also, to prevent any static fire to ignite"
-  image: ""
+    image: ""
 
   utter_hydrojet_machine_checklist:
   - text: "Ensure that the daily checklist is completed, and you need to be competent in operating the machine"
-  image: ""
+    image: ""
 
   utter_hydro_jet_gun_hoses:
   - text: "It is using a National Pipe Taper (NPT) 3/4 inch hose connection"
-  image: ""
+    image: ""
 
   utter_false_answer_hydrojet_gun:
   - text: "no"
