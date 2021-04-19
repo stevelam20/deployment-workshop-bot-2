@@ -11,8 +11,22 @@ intents:
   - minimal_hydrojet_gun
   - false_answer_on_hydrojet_gun
   - Hydro_Jet_Gun_Hoses
+  - checklist_hydrojet_machine
+  - earthing_for_hydrojet_machine
+  - purpose_hydrojet_machine
 
 responses:
+
+  utter_hydrojet_purpose:
+  - text: "Hydrojet is used to boost up the pressure of water from 0 psi up to 20 000psi. Mainly use for tank cleaning purposes"
+
+  utter_hydrojet_earthing:
+  - text: "Firstly, to ensure that no static electricity is passing through our body, also, to prevent any static fire to ignite"
+  image: ""
+
+  utter_hydrojet_machine_checklist:
+  - text: "Ensure that the daily checklist is completed, and you need to be competent in operating the machine"
+  image: ""
 
   utter_hydro_jet_gun_hoses:
   - text: "It is using a National Pipe Taper (NPT) 3/4 inch hose connection"
