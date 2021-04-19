@@ -2,6 +2,10 @@
 * hydrojet_machine_pressure
   - utter_hydrojet_machine_pressure
 
+## hydrojet machine pressure gauge
+* hydrojet_machine_pressure_gauge
+  - utter_hydrojet_machine_pressure_gauge
+
 ## hydrojet guns
 * hydrojet_guns
   - utter_hydrojet_guns
