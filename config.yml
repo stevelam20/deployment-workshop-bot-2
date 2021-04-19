@@ -18,10 +18,8 @@ pipeline:
 
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
-  - name: EntitySynonymMapper
 policies:
-  - name: AugmentedMemoizationPolicy
-#TED policy is to handle conversation action, it makes prediction on your training data
+  - name: MemoizationPolicy
   - name: TEDPolicy
     max_history: 5
     epochs: 100
