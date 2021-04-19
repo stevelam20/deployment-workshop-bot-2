@@ -1,14 +1,16 @@
 ## intent:hydrojet_machine_pressure
-- What is the maximum pressure for Hydro Jetting (HJ) Machine
-- What is the pressure limit?								
-- What is the highest pressure allowable?								
-- What is the most pressure it can handle?								
-- What is the safe operating pressure?								
-- What is the operating pressure ?								
-- What's the pressure?								
-- What's the max pressure?								
-- What the pressure is (hydrojet machine/hydrojethydro jet/high pressure jet machine)?
-- Where can I see the pressure? (Show Picture)								
+- What is the maximum pressure for [Hydro Jetting] (hydrojet_pump) [HJ] (hydrojet_pump) Machine
+- What is the [hydrojet machine] (hydrojet_pump) pressure limit?								
+- What is the [hydrojet machine] (hydrojet_pump) highest pressure allowable?								
+- What is the [hydrojet machine] (hydrojet_pump) most pressure it can handle?								
+- What is the [hydrojet machine] (hydrojet_pump) safe operating pressure?								
+- What is the [hydrojet machine] (hydrojet_pump) operating pressure ?								
+- What's the [hydrojet machine] (hydrojet_pump) pressure?								
+- What's the [hydrojet machine] (hydrojet_pump) max pressure?
+
+## intent:hydrojet_machine_pressure_gauge								
+- What the pressure is ([hydrojet machine] (hydrojet_pump)/[high pressure jet machine] (hydrojet_pump))?
+- Where can I see the [hydrojet machine] (hydrojet_pump) pressure? (Show Picture)								
 - Where will the pressure indicate?
 - When do i need to look at the max pressure?								
 - Who is responsible to pressure up the pressure?
@@ -18,7 +20,7 @@
 - How much pressure it can produce?								
 - The pressure?								
 - Pressure of the hydrojet machine?								
-- Hydrojet machine pressure is?
+- Hydrojet machine pressure is?		
 
 ## intent:hydrojet_guns
 - What is the maximum number of guns that can be used at once?
