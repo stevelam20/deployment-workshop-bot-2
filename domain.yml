@@ -18,11 +18,6 @@ intents:
   
 entities:
   - hydrojet_pump
-  - hydrojet_guns
-  - hydrojet_hoses
-  - booster_pump
-  - hoses
-
 responses:
 
   utter_hydrojet_purpose:
