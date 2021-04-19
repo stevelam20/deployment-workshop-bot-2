@@ -6,14 +6,22 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - hydrojet_guns
   - hydrojet_machine_pressure
+  - hydrojet_machine_pressure_gauge
+  - hydrojet_guns
   - minimal_hydrojet_gun
   - false_answer_on_hydrojet_gun
   - Hydro_Jet_Gun_Hoses
   - checklist_hydrojet_machine
   - earthing_for_hydrojet_machine
   - purpose_hydrojet_machine
+  
+  entities:
+  - hydrojet_pump
+  - hydrojet_guns
+  - hydrojet_hoses
+  - booster_pump
+  - hoses
 
 responses:
 
@@ -37,6 +45,10 @@ responses:
 
   utter_min_hydrojet_gun:
   - text: "Yes, you can choose to use only one jet gun"
+  
+  utter_hydrojet_machine_pressure_gauge:
+  - text: "Pressure gauge shown here"
+    image: ""
   
   utter_hydrojet_machine_pressure:
   - text: "The maximum pressure of hydrojet is 20 000PSI"
