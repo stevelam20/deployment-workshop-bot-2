@@ -73,6 +73,75 @@
 - Can i see a photo/picture/image of the hose connector
 - Do you have a photo of the hose connector?
 
+## intent:checklist_hydrojet_machine
+- What do i need to take note before operating the machine
+- What should i know before i use the machine?								
+- What are the criteria for using the machine?								
+- What procedures i have to follow before using the machine?
+- What is the machine steps to follow before using the machine?
+- What steps before using the machine?								
+- What do i need to do before using the machine?								
+- what do i need to do before operating the machine?								
+- What should i do before running the machine?								
+- What should i do before operating the machine?								
+- What must i do before using the machine?								
+- What must i do before operating the machine?								
+- What must i follow before using/running/operating the machine?
+- What is the daily checklist? (Show Picture)								
+- What does the daily checklist look like (Show Picture)
+- What is a daily checklist? (Show Picture)
+- Why do i need to do daily checklist?								
+- Why must i complete daily checklist?
+- How does the daily checklist look like? (Show Picture)
+- Show me the daily Checklist (Show Picture)								
+- Show me a photo/picture/image of the daily checklist
+- Can i see a photo/picture/image of the daily checklist?
+- Do you have a photo of the daily checklist?
+- Is there anything i should know before operating the machine?
+
+## intent:earthing_for_hydrojet_machine
+- What is purpose of connecting the earthing cable to the earthing point?								
+- What function does connecting the earthing cable to the earthing point have?								
+- What is the reason for connecting the earthing cable to the earthing point?
+- What is earthing?								
+- What is the point for earthing the machine?
+- What is the earthing point? (Show Picture)								
+- What does the earthing point look like? (Show Picture)
+- Where do we earth the machine? (Show Picture)
+- Where is the earthing point? (Show Picture)								
+- Where to earth the machine? (Show Picture)
+- Why do i need to connect earthing cable to earthing point?								
+- why does the earthing cable need to be connected to the earthing point?								
+- Why do we need to earth the machine?								
+- Why earth the machine?								
+- Why need to earth the machine?
+- How to earth the machine ?								
+- How to use earthing point?
+- How does the earthing point look like? (Show Picture)
+- Can you teach me how to earth the machine?								
+- Can you guide me how to earth the machine?								
+- Can help me how to earth the machine?								
+- Show me how to earth the machine								
+- Guide me on earthing the machine								
+- Help me on earthing the machine								
+- Lead me on earthing the machine
+- Show me the earthing point (Show picture)								
+- Show me a photo/picture/image of the earthing point? (Show Picture)								
+- Can i see a photo/picture/image of the earthing point? (Show Picture)								
+- Do you have a photo of the earthing point (Show Picture)
+
+## intent:purpose_hydrojet_machine
+- What is the purpose of the hydrojetting machine?
+- What is the machine for?								
+- What is the machine used for?								
+- What can the machine do?								
+- What is the function of the machine?								
+- What is Hydrojet Machine?								
+- What is Hydrojet mainly use for?								
+- What can i use Hydrojet Machine for?
+- How does the machine work?								
+- How to use the machine?
+
 ## intent:greet
 - hey
 - hello
