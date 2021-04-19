@@ -16,7 +16,7 @@ intents:
   - earthing_for_hydrojet_machine
   - purpose_hydrojet_machine
   
-  entities:
+entities:
   - hydrojet_pump
   - hydrojet_guns
   - hydrojet_hoses
