@@ -8,7 +8,7 @@
 - What's the [hydrojet machine] (hydrojet_pump) pressure?								
 - What's the [hydrojet machine] (hydrojet_pump) max pressure?
 
-## intent:hydrojet_machine_pressure_gauge								
+## intent:hydrojet_machine_pressure_gauge
 - What the pressure is ([hydrojet machine] (hydrojet_pump)/[high pressure jet machine] (hydrojet_pump))?
 - Where can I see the [hydrojet machine] (hydrojet_pump) pressure? (Show Picture)								
 - Where will the pressure indicate?
