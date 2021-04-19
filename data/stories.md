@@ -18,6 +18,18 @@
 * Hydro_Jet_Gun_Hoses
   - utter_hydro_jet_gun_hoses
 
+## hydrojet machine checklist
+* checklist_hydrojet_machine
+  - utter_hydrojet_machine_checklist
+
+## hydrojet earthing
+* earthing_for_hydrojet_machine
+  - utter_hydrojet_earthing
+
+## purpose of hydrojet machine
+* purpose_hydrojet_machine
+  - utter_hydrojet_purpose
+
 ## happy path
 * greet
   - action_hi
