@@ -1,31 +1,26 @@
-# See: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions
-name: CI on push
-on:
- push:
-   paths-ignore:
-   - "README.md"
- 
-jobs:
- ci:
-   name: CI job
-   runs-on: ubuntu-latest
-   steps:
-   - uses: actions/checkout@v2
-   - name: Set up Python 3.7
-     uses: actions/setup-python@v2
-     with:
-       python-version: 3.7
-   - name: Install dependencies
-     run: |
-       python -m pip install -U pip
-       pip install -r requirements.txt
-   - name: Install SpaCY
-     run: |
-       pip install -U pip setuptools wheel
-       pip install -U spacy
-       python -m spacy download en_core_web_md
-   - name: Test it all
-     working-directory: ${{ github.workspace }}
-     run: |
-       rasa train --quiet
-       rasa test --fail-on-prediction-errors
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: en
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: RegexFeaturizer
+  - name: LexicalSyntacticFeaturizer
+  - name: CountVectorsFeaturizer
+  - name: CountVectorsFeaturizer
+    analyzer: "char_wb"
+    min_ngram: 1
+    max_ngram: 4
+  - name: DIETClassifier
+    epochs: 100
+  - name: EntitySynonymMapper
+  - name: ResponseSelector
+    epochs: 100
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+  - name: MemoizationPolicy
+  - name: TEDPolicy
+    max_history: 5
+    epochs: 100
+  - name: MappingPolicy
